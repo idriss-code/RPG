@@ -1,0 +1,2486 @@
+# depslib dependency file v1.0
+1482866674 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\barre.cpp
+	"Barre.h"
+
+1493560938 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\barre.h
+	<iostream>
+	<cstdio>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_config.h
+	"SDL_platform.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\begin_code.h
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\close_code.h
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476903590 c:\program files (x86)\codeblocks\sdl2-2.0.5\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451767988 c:\program files (x86)\codeblocks\sdl2_image-2.0.1\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454330548 c:\program files (x86)\codeblocks\sdl2_ttf-2.0.14\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1480608854 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\benrandom.cpp
+	"benrandom.h"
+
+1493561208 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\benrandom.h
+	<cstdlib>
+	<ctime>
+
+1503242416 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa.cpp
+	"Capa.h"
+
+1509719938 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa.h
+	<cstdio>
+	<SDL.h>
+	"constante.h"
+	"util/fonctionDessin.h"
+
+1526115360 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\constante.h
+
+1526504564 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\entite.cpp
+	"Entite.h"
+	"fonction.h"
+	"Frape.h"
+
+1526504049 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\entite.h
+	<SDL.h>
+	"Capa.h"
+	"util/fonctionTTF.h"
+
+1524930201 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\fonction.h
+
+1493560938 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\fonctiondessin.h
+	<SDL.h>
+	<cmath>
+
+1503754471 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\fonctionttf.h
+	<cstdio>
+	<SDL_ttf.h>
+
+1517073830 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\group.h
+	"Entite.h"
+
+1526115930 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\monstre.h
+	"Entite.h"
+
+1503755463 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\fonction.cpp
+	"fonction.h"
+
+1482979962 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\fonctiondessin.cpp
+	"fonctionDessin.h"
+
+1482854540 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\fonctionttf.cpp
+	"fonctionTTF.h"
+
+1517073489 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\group.cpp
+	"Group.h"
+
+1526116084 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\monstre.cpp
+	"Monstre.h"
+	"constante.h"
+	"Group.h"
+
+1503852655 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\personnage.cpp
+	"Personnage.h"
+
+1503852275 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\personnage.h
+	"Entite.h"
+
+1526722066 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"fonction.h"
+	"constante.h"
+	"util/benrandom.h"
+	"menu/SousMenu.h"
+	"menuItem/Quit.h"
+	"menuItem/Continue.h"
+	"menuItem/AffichePerso.h"
+	"Player.h"
+	"capa/Frape.h"
+	"capa/Sort1.h"
+	"capa/Sort2.h"
+	"capa/Soin.h"
+	"capa/MutiCible.h"
+	"monstres/Dragon.h"
+	"monstres/Demon.h"
+	"monstres/Guivre.h"
+	"Map/FinalMap.h"
+	"MapElement/Wall.h"
+	"MapElement/Boss.h"
+	"MapElement/Sortie.h"
+	"MapElement/Switch.h"
+	"Personnage.h"
+
+1526722151 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\combat.cpp
+	"fonction.h"
+	"constante.h"
+	"util/Barre.h"
+	"Group.h"
+	"Monstre.h"
+
+1517070476 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapdeplacement.cpp
+	"fonction.h"
+	"util/collision.h"
+	"util/benrandom.h"
+
+1494231192 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\collision.cpp
+	"collision.h"
+
+1494231192 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\collision.h
+	<SDL.h>
+
+1503482310 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\map.cpp
+	"Map.h"
+
+1503482296 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\map.h
+	"Group.h"
+
+1482866674 source:g:\_rpg en cour\barre.cpp
+	"Barre.h"
+
+1493564538 g:\_rpg en cour\barre.h
+	<iostream>
+	<cstdio>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1480608854 source:g:\_rpg en cour\benrandom.cpp
+	"benrandom.h"
+
+1493564808 g:\_rpg en cour\benrandom.h
+	<cstdlib>
+	<ctime>
+
+1493583586 source:g:\_rpg en cour\capa.cpp
+	"Capa.h"
+
+1493757182 g:\_rpg en cour\capa.h
+	<cstdio>
+	<SDL.h>
+	"constante.h"
+
+1498644908 g:\_rpg en cour\constante.h
+
+1494234792 source:g:\_rpg en cour\collision.cpp
+	"collision.h"
+
+1494234792 g:\_rpg en cour\collision.h
+	<SDL.h>
+
+1494016002 source:g:\_rpg en cour\combat.cpp
+	"fonction.h"
+
+1498646608 g:\_rpg en cour\fonction.h
+	<SDL_image.h>
+	"constante.h"
+	"fonctionDessin.h"
+	"fonctionTTF.h"
+	"Group.h"
+	"benrandom.h"
+	"Barre.h"
+	"Group.h"
+	"Personnage.h"
+	"Monstre.h"
+	"constante.h"
+	"Map.h"
+
+1493564538 g:\_rpg en cour\fonctiondessin.h
+	<SDL.h>
+	<cmath>
+
+1493564536 g:\_rpg en cour\fonctionttf.h
+	<cstdio>
+	<SDL_ttf.h>
+
+1494093410 g:\_rpg en cour\group.h
+	"Entite.h"
+
+1493581546 g:\_rpg en cour\entite.h
+	<SDL.h>
+	"constante.h"
+	"Capa.h"
+
+1493564642 g:\_rpg en cour\personnage.h
+	"Entite.h"
+
+1493759458 g:\_rpg en cour\monstre.h
+	"Entite.h"
+
+1496261860 g:\_rpg en cour\map.h
+	"Group.h"
+
+1493568416 source:g:\_rpg en cour\entite.cpp
+	"Entite.h"
+	"fonction.h"
+
+1494014542 source:g:\_rpg en cour\fonction.cpp
+	"fonction.h"
+
+1482979962 source:g:\_rpg en cour\fonctiondessin.cpp
+	"fonctionDessin.h"
+
+1482854540 source:g:\_rpg en cour\fonctionttf.cpp
+	"fonctionTTF.h"
+
+1482835150 source:g:\_rpg en cour\group.cpp
+	"Group.h"
+
+1498647008 source:g:\_rpg en cour\main.cpp
+	<cmath>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	"fonction.h"
+
+1495291990 source:g:\_rpg en cour\map.cpp
+	"Map.h"
+
+1498646836 source:g:\_rpg en cour\mapdeplacement.cpp
+	"fonction.h"
+	"collision.h"
+
+1483285360 source:g:\_rpg en cour\monstre.cpp
+	"Monstre.h"
+
+1483258904 source:g:\_rpg en cour\personnage.cpp
+	"Personnage.h"
+
+1502486924 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\zone.cpp
+	"Zone.h"
+	"constante.h"
+
+1502485564 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\zone.h
+	<SDL.h>
+
+1502473852 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\sortie.cpp
+	"Sortie.h"
+
+1502473712 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\sortie.h
+	"Zone.h"
+
+1503155806 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapobj\mapgrd.h
+	"../Map.h"
+
+1503149798 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapobj\mapgrd.cpp
+	"MapGrd.h"
+
+1503155806 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapobj\mappti.h
+	"../Map.h"
+
+1503155194 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapobj\mappti.cpp
+	"MapPti.h"
+
+1503837076 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa\frape.cpp
+	"Frape.h"
+	"../Group.h"
+
+1503836699 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa\frape.h
+	"../Entite.h"
+	"../Capa.h"
+
+1503836699 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa\soin.cpp
+	"Soin.h"
+	"../Group.h"
+	"../constante.h"
+
+1503836699 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa\soin.h
+	"../Capa.h"
+
+1526212968 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa\sort2.cpp
+	"Sort2.h"
+	<SDL_image.h>
+
+1526212948 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa\sort2.h
+	"../Capa.h"
+	"../Group.h"
+
+1503836699 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa\sort1.h
+	"../Capa.h"
+
+1503837540 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa\sort1.cpp
+	"Sort1.h"
+	"../Group.h"
+
+1503837548 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa\muticible.cpp
+	"MutiCible.h"
+	"../Group.h"
+
+1503836699 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\capa\muticible.h
+	"../Capa.h"
+
+1526031917 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\monstres\iabasic.cpp
+	"IAbasic.h"
+	"../constante.h"
+	"../Group.h"
+	"../util/benrandom.h"
+
+1503566892 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\monstres\iabasic.h
+	"../Monstre.h"
+
+1526211035 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\monstres\dragon.h
+	"IAbasic.h"
+
+1526212477 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\monstres\dragon.cpp
+	"Dragon.h"
+	<SDL_image.h>
+
+1526211035 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\monstres\demon.h
+	"IAbasic.h"
+
+1526211035 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\monstres\guivre.h
+	"IAbasic.h"
+
+1526212477 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\monstres\demon.cpp
+	"Demon.h"
+	<SDL_image.h>
+
+1526212477 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\monstres\guivre.cpp
+	"Guivre.h"
+	<SDL_image.h>
+
+1526505223 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\xpfincombat.cpp
+	"fonction.h"
+	"constante.h"
+	"util/Barre.h"
+	"Group.h"
+	"Monstre.h"
+	"Personnage.h"
+
+1493560938 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\fonctiondessin.h
+	<SDL.h>
+	<cmath>
+
+1503754471 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\fonctionttf.h
+	<cstdio>
+	<SDL_ttf.h>
+
+1493560938 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\barre.h
+	<iostream>
+	<cstdio>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1493561208 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\benrandom.h
+	<cstdlib>
+	<ctime>
+
+1494231192 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\collision.h
+	<SDL.h>
+
+1482866674 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\barre.cpp
+	"Barre.h"
+
+1480608854 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\benrandom.cpp
+	"benrandom.h"
+
+1494231192 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\collision.cpp
+	"collision.h"
+
+1504541592 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\elementmenu.cpp
+	"ElementMenu.h"
+
+1504545915 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\elementmenu.h
+	<cstdio>
+
+1482979962 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\fonctiondessin.cpp
+	"fonctionDessin.h"
+
+1509797991 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\fonctionttf.cpp
+	"fonctionTTF.h"
+
+1505233436 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\menu.cpp
+	"Menu.h"
+
+1505233967 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\menu.h
+	<vector>
+	"fonctionTTF.h"
+	"ElementMenu.h"
+
+1505233929 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\sousmenu.cpp
+	"SousMenu.h"
+
+1505234358 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\util\sousmenu.h
+	"ElementMenu.h"
+	"Menu.h"
+
+1504545192 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menu\elementmenu.cpp
+	"ElementMenu.h"
+
+1526210212 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menu\elementmenu.h
+	<cstdio>
+
+1517060610 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menu\menu.cpp
+	"Menu.h"
+
+1526210263 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menu\menu.h
+	<vector>
+	"../util/fonctionTTF.h"
+	"ElementMenu.h"
+
+1505237529 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menu\sousmenu.cpp
+	"SousMenu.h"
+
+1509815735 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menu\sousmenu.h
+	"ElementMenu.h"
+	"Menu.h"
+
+1526504939 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menuprincipal.cpp
+	"fonction.h"
+	"constante.h"
+	"menu/SousMenu.h"
+	"menuItem/Quit.h"
+
+1516986207 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menuitem\quit.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1517060818 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menuitem\quit.cpp
+	"Quit.h"
+
+1517061395 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menuitem\continue.cpp
+	"Continue.h"
+
+1517061352 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menuitem\continue.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1517062662 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menuitem\afficheperso.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1526505160 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\menuitem\afficheperso.cpp
+	"AffichePerso.h"
+	"../fonction.h"
+	"../constante.h"
+	"../util/Barre.h"
+	"../Group.h"
+	"../Monstre.h"
+	"../Personnage.h"
+
+1526654080 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\map\finalmap.cpp
+	"FinalMap.h"
+	<stdio.h>
+	"../fonction.h"
+	"../util/collision.h"
+	"../util/benrandom.h"
+	"../constante.h"
+	"../gfx/SDL2_rotozoom.h"
+	"../MapElement/Plan.h"
+	"../MapElement/Sortie.h"
+	"../Player.h"
+
+1526652658 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\map\finalmap.h
+	"Map.h"
+	"CombatAleatoire.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1525789085 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\map\map.h
+
+1526209986 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\map\combataleatoire.cpp
+	"CombatAleatoire.h"
+	"../util/benrandom.h"
+
+1526209986 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\map\combataleatoire.h
+
+1526038625 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\map\map.cpp
+	"Map.h"
+	<iostream>
+	<fstream>
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_config.h
+	"SDL_platform.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\begin_code.h
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\close_code.h
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1519889928 c:\program files (x86)\codeblocks\sdl2-2.0.8\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1391342540 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\gfx\sdl2_rotozoom.c
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"SDL2_rotozoom.h"
+
+1346777480 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\gfx\sdl2_rotozoom.h
+	<math.h>
+	"SDL.h"
+
+1525852512 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\mapelement.cpp
+	"MapElement.h"
+
+1526209765 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\mapelement.h
+
+1525852934 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\wall.cpp
+	"Wall.h"
+
+1526209805 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\wall.h
+	"MapElement.h"
+
+1525854806 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\plan.cpp
+	"Plan.h"
+
+1526209849 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\plan.h
+	"MapElement.h"
+
+1526209830 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\boss.h
+	"MapElement.h"
+
+1526113362 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\boss.cpp
+	"Boss.h"
+	"../fonction.h"
+	"../constante.h"
+	"../Group.h"
+
+1526653540 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\sortie.cpp
+	"Sortie.h"
+	"../constante.h"
+	"../Player.h"
+
+1526209658 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\sortie.h
+	"MapElement.h"
+
+1526217339 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\switch.cpp
+	"Switch.h"
+	"../constante.h"
+	"../Map/FinalMap.h"
+
+1526216904 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\mapelement\switch.h
+	"MapElement.h"
+
+1526653439 c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\player.h
+	<SDL.h>
+	<SDL_image.h>
+
+1526655236 source:c:\users\ben\documents\_projets programmation\projet sdl 2\_rpg en cour\player.cpp
+	"Player.h"
+
+1535114126 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa.cpp
+	"Capa.h"
+	<cstdio>
+
+1535475122 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa.h
+	<SDL.h>
+	"constante.h"
+	"util/fonctionDessin.h"
+
+1535742256 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\constante.h
+
+1493557338 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\util\fonctiondessin.h
+	<SDL.h>
+	<cmath>
+
+1535475122 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa\frape.cpp
+	"Frape.h"
+	"../Group.h"
+
+1535475122 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa\frape.h
+	"../Entite.h"
+	"../Capa.h"
+
+1535114216 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\entite.h
+	<SDL.h>
+	"Capa.h"
+	"util/fonctionTTF.h"
+
+1535114126 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\util\fonctionttf.h
+	<SDL_ttf.h>
+
+1517070232 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\group.h
+	"Entite.h"
+
+1535475122 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa\muticible.cpp
+	"MutiCible.h"
+	"../Group.h"
+
+1535475122 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa\muticible.h
+	"../Capa.h"
+
+1535475122 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa\soin.cpp
+	"Soin.h"
+	"../Group.h"
+	"../constante.h"
+
+1535475122 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa\soin.h
+	"../Capa.h"
+
+1535475122 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa\sort1.cpp
+	"Sort1.h"
+	"../Group.h"
+
+1535475122 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa\sort1.h
+	"../Capa.h"
+
+1535475122 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa\sort2.cpp
+	"Sort2.h"
+	<SDL_image.h>
+
+1535475122 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\capa\sort2.h
+	"../Capa.h"
+	"../Group.h"
+
+1535475306 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\combat.cpp
+	"fonction.h"
+	"constante.h"
+	"util/Barre.h"
+	"Group.h"
+	"Monstre.h"
+	"Game.h"
+	"../MenuScene.h"
+
+1536487041 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\fonction.h
+
+1493557338 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\util\barre.h
+	<iostream>
+	<cstdio>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1526112332 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\monstre.h
+	"Entite.h"
+
+1535114216 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\entite.cpp
+	"Entite.h"
+	"fonction.h"
+	"Frape.h"
+	<cstdio>
+
+1391338940 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\gfx\sdl2_rotozoom.c
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"SDL2_rotozoom.h"
+
+1346773880 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\gfx\sdl2_rotozoom.h
+	<math.h>
+	"SDL.h"
+
+1535100370 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\group.cpp
+	"Group.h"
+
+1536412538 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\main.cpp
+	"MyGame.h"
+
+1493557608 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\util\benrandom.h
+	<cstdlib>
+	<ctime>
+
+1509812136 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menu\sousmenu.h
+	"ElementMenu.h"
+	"Menu.h"
+
+1535018582 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menu\elementmenu.h
+
+1535124774 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menu\menu.h
+	<vector>
+	"../util/fonctionTTF.h"
+	"ElementMenu.h"
+
+1516982608 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menuitem\quit.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1517057754 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menuitem\continue.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1517059064 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menuitem\afficheperso.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1535097692 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\player.h
+	<SDL.h>
+	<SDL_image.h>
+
+1526207436 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\monstres\dragon.h
+	"IAbasic.h"
+
+1503563292 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\monstres\iabasic.h
+	"../Monstre.h"
+
+1526207436 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\monstres\demon.h
+	"IAbasic.h"
+
+1526207436 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\monstres\guivre.h
+	"IAbasic.h"
+
+1535128436 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\map\finalmap.h
+	"Map.h"
+	"CombatAleatoire.h"
+	"../Scene.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1525785486 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\map\map.h
+
+1526206388 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\map\combataleatoire.h
+
+1526206206 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\wall.h
+	"MapElement.h"
+
+1526206166 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\mapelement.h
+
+1526206232 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\boss.h
+	"MapElement.h"
+
+1535105114 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\sortie.h
+	"MapElement.h"
+
+1526213306 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\switch.h
+	"MapElement.h"
+
+1535742928 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\personnage.h
+	"Entite.h"
+
+1526206388 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\map\combataleatoire.cpp
+	"CombatAleatoire.h"
+	"../util/benrandom.h"
+
+1535485138 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\map\finalmap.cpp
+	"FinalMap.h"
+	<iostream>
+	"../util/collision.h"
+	"../util/benrandom.h"
+	"../constante.h"
+	"../gfx/SDL2_rotozoom.h"
+	"../MapElement/Plan.h"
+	"../MapElement/Sortie.h"
+	"../Player.h"
+	"../MenuScene.h"
+	"../Game.h"
+	"../combatScene.h"
+
+1494227592 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\util\collision.h
+	<SDL.h>
+
+1526206250 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\plan.h
+	"MapElement.h"
+
+1535123992 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\map\map.cpp
+	"Map.h"
+	<iostream>
+	<fstream>
+
+1535485138 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\boss.cpp
+	"Boss.h"
+	"../constante.h"
+	"../Group.h"
+	"../combatScene.h"
+
+1525848914 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\mapelement.cpp
+	"MapElement.h"
+
+1525851208 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\plan.cpp
+	"Plan.h"
+
+1535118026 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\sortie.cpp
+	"Sortie.h"
+	"../constante.h"
+	"../Player.h"
+	"../Game.h"
+	"../Map/FinalMap.h"
+
+1535035172 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\switch.cpp
+	"Switch.h"
+	"../constante.h"
+	"../Map/FinalMap.h"
+
+1525849336 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mapelement\wall.cpp
+	"Wall.h"
+
+1535018582 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menu\elementmenu.cpp
+	"ElementMenu.h"
+	<cstdio>
+
+1535127966 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menu\menu.cpp
+	"Menu.h"
+
+1505233930 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menu\sousmenu.cpp
+	"SousMenu.h"
+
+1536090094 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menuitem\afficheperso.cpp
+	"AffichePerso.h"
+	"../fonction.h"
+	"../constante.h"
+	"../util/Barre.h"
+	"../Group.h"
+	"../Monstre.h"
+	"../Personnage.h"
+	"../Game.h"
+
+1535035180 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menuitem\continue.cpp
+	"Continue.h"
+
+1535037164 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menuitem\quit.cpp
+	"Quit.h"
+	"../Game.h"
+
+1535128372 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menuprincipal.cpp
+	"fonction.h"
+	"constante.h"
+	"menu/SousMenu.h"
+	"menuItem/Quit.h"
+	"Game.h"
+
+1526112486 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\monstre.cpp
+	"Monstre.h"
+	"constante.h"
+	"Group.h"
+
+1526208878 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\monstres\demon.cpp
+	"Demon.h"
+	<SDL_image.h>
+
+1526208878 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\monstres\dragon.cpp
+	"Dragon.h"
+	<SDL_image.h>
+
+1526208878 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\monstres\guivre.cpp
+	"Guivre.h"
+	<SDL_image.h>
+
+1526028318 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\monstres\iabasic.cpp
+	"IAbasic.h"
+	"../constante.h"
+	"../Group.h"
+	"../util/benrandom.h"
+
+1535742922 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\personnage.cpp
+	"Personnage.h"
+
+1535103522 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\player.cpp
+	"Player.h"
+
+1541165858 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\util\barre.cpp
+	"Barre.h"
+
+1480605254 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\util\benrandom.cpp
+	"benrandom.h"
+
+1494227592 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\util\collision.cpp
+	"collision.h"
+
+1482976362 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\util\fonctiondessin.cpp
+	"fonctionDessin.h"
+
+1535114126 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\util\fonctionttf.cpp
+	"fonctionTTF.h"
+	<cstdio>
+
+1536420074 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\xpfincombat.cpp
+	"fonction.h"
+	"constante.h"
+	"util/Barre.h"
+	"Group.h"
+	"Monstre.h"
+	"Personnage.h"
+
+1535114490 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\intro.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"util/fonctionDessin.h"
+	"util/fonctionTTF.h"
+	"util/benrandom.h"
+	"constante.h"
+
+1508740390 c:\program files (x86)\codeblocks\sdl2_mixer-2.0.2\include\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1535399268 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\scene.cpp
+	"Scene.h"
+
+1536326964 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\scene.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1535014314 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\scene\testscene.h
+	"../Scene.h"
+
+1535017090 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\scene\testscene.cpp
+	"TestScene.h"
+
+1536411742 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\game.cpp
+	"Game.h"
+
+1536411742 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\game.h
+	"Scene.h"
+	"constante.h"
+
+1535743620 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menuscene.cpp
+	"MenuScene.h"
+	"Game.h"
+	"menu/SousMenu.h"
+	"menuItem/Quit.h"
+	"menuItem/Continue.h"
+	"menuItem/AffichePerso.h"
+	<iostream>
+
+1535128436 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\menuscene.h
+	"Scene.h"
+	"menu/Menu.h"
+
+1536487041 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\combatscene.cpp
+	"combatScene.h"
+	<iostream>
+	"util/Barre.h"
+	"Monstre.h"
+	"Game.h"
+	"MenuScene.h"
+	"Scene/GameOver.h"
+	"XpScene.h"
+
+1535481150 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\combatscene.h
+	"Scene.h"
+	"constante.h"
+	"Group.h"
+
+1536328968 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\scene\gameover.cpp
+	"GameOver.h"
+	"../util/fonctionTTF.h"
+	"../Game.h"
+	<iostream>
+
+1536326850 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\scene\gameover.h
+	"../Scene.h"
+
+1536412128 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mygame.h
+	"Game.h"
+	"Map/FinalMap.h"
+
+1536413096 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\mygame.cpp
+	"MyGame.h"
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"fonction.h"
+	"constante.h"
+	"util/benrandom.h"
+	"menu/SousMenu.h"
+	"menuItem/Quit.h"
+	"menuItem/Continue.h"
+	"menuItem/AffichePerso.h"
+	"Player.h"
+	"capa/Frape.h"
+	"capa/Sort1.h"
+	"capa/Sort2.h"
+	"capa/Soin.h"
+	"capa/MutiCible.h"
+	"monstres/Dragon.h"
+	"monstres/Demon.h"
+	"monstres/Guivre.h"
+	"Map/FinalMap.h"
+	"MapElement/Wall.h"
+	"MapElement/Boss.h"
+	"MapElement/Sortie.h"
+	"MapElement/Switch.h"
+	"Personnage.h"
+	"Scene/TestScene.h"
+	"Game.h"
+
+1536486897 source:c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\xpscene.cpp
+	"XpScene.h"
+	<iostream>
+	"../Game.h"
+	"Monstre.h"
+	"Personnage.h"
+
+1536486897 c:\users\ben\documents\_projets programmation\projet sdl 2\rpggit\xpscene.h
+	"Scene.h"
+	"Group.h"
+	"constante.h"
+	"util/Barre.h"
+
+1535114126 source:c:\users\ben\documents\_projet c++\rpg framework\capa.cpp
+	"Capa.h"
+	<cstdio>
+
+1535475122 c:\users\ben\documents\_projet c++\rpg framework\capa.h
+	<SDL.h>
+	"constante.h"
+	"util/fonctionDessin.h"
+
+1535742256 c:\users\ben\documents\_projet c++\rpg framework\constante.h
+
+1493557338 c:\users\ben\documents\_projet c++\rpg framework\util\fonctiondessin.h
+	<SDL.h>
+	<cmath>
+
+1535475122 source:c:\users\ben\documents\_projet c++\rpg framework\capa\frape.cpp
+	"Frape.h"
+	"../Group.h"
+
+1535475122 c:\users\ben\documents\_projet c++\rpg framework\capa\frape.h
+	"../Entite.h"
+	"../Capa.h"
+
+1535114216 c:\users\ben\documents\_projet c++\rpg framework\entite.h
+	<SDL.h>
+	"Capa.h"
+	"util/fonctionTTF.h"
+
+1535114126 c:\users\ben\documents\_projet c++\rpg framework\util\fonctionttf.h
+	<SDL_ttf.h>
+
+1517070232 c:\users\ben\documents\_projet c++\rpg framework\group.h
+	"Entite.h"
+
+1535475122 source:c:\users\ben\documents\_projet c++\rpg framework\capa\muticible.cpp
+	"MutiCible.h"
+	"../Group.h"
+
+1535475122 c:\users\ben\documents\_projet c++\rpg framework\capa\muticible.h
+	"../Capa.h"
+
+1535475122 source:c:\users\ben\documents\_projet c++\rpg framework\capa\soin.cpp
+	"Soin.h"
+	"../Group.h"
+	"../constante.h"
+
+1535475122 c:\users\ben\documents\_projet c++\rpg framework\capa\soin.h
+	"../Capa.h"
+
+1535475122 source:c:\users\ben\documents\_projet c++\rpg framework\capa\sort1.cpp
+	"Sort1.h"
+	"../Group.h"
+
+1535475122 c:\users\ben\documents\_projet c++\rpg framework\capa\sort1.h
+	"../Capa.h"
+
+1535475122 source:c:\users\ben\documents\_projet c++\rpg framework\capa\sort2.cpp
+	"Sort2.h"
+	<SDL_image.h>
+
+1535475122 c:\users\ben\documents\_projet c++\rpg framework\capa\sort2.h
+	"../Capa.h"
+	"../Group.h"
+
+1545829034 source:c:\users\ben\documents\_projet c++\rpg framework\entite.cpp
+	"Entite.h"
+	"Frape.h"
+	<cstdio>
+
+1391338940 source:c:\users\ben\documents\_projet c++\rpg framework\gfx\sdl2_rotozoom.c
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"SDL2_rotozoom.h"
+
+1346773880 c:\users\ben\documents\_projet c++\rpg framework\gfx\sdl2_rotozoom.h
+	<math.h>
+	"SDL.h"
+
+1535100370 source:c:\users\ben\documents\_projet c++\rpg framework\group.cpp
+	"Group.h"
+
+1535114490 source:c:\users\ben\documents\_projet c++\rpg framework\intro.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"util/fonctionDessin.h"
+	"util/fonctionTTF.h"
+	"util/benrandom.h"
+	"constante.h"
+
+1493557608 c:\users\ben\documents\_projet c++\rpg framework\util\benrandom.h
+	<cstdlib>
+	<ctime>
+
+1526206388 source:c:\users\ben\documents\_projet c++\rpg framework\map\combataleatoire.cpp
+	"CombatAleatoire.h"
+	"../util/benrandom.h"
+
+1526206388 c:\users\ben\documents\_projet c++\rpg framework\map\combataleatoire.h
+
+1543511326 source:c:\users\ben\documents\_projet c++\rpg framework\core\game.cpp
+	"Game.h"
+	<cstdlib>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1540837988 c:\users\ben\documents\_projet c++\rpg framework\core\game.h
+	"Scene.h"
+	"../constante.h"
+
+1545833222 c:\users\ben\documents\_projet c++\rpg framework\core\scene.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1540833934 source:c:\users\ben\documents\_projet c++\rpg framework\core\main.cpp
+	"../MyGame.h"
+
+1545829530 c:\users\ben\documents\_projet c++\rpg framework\mygame.h
+	"core/Game.h"
+	"Map/FinalMap.h"
+
+1545829057 c:\users\ben\documents\_projet c++\rpg framework\map\finalmap.h
+	"Map.h"
+	"CombatAleatoire.h"
+	"../core/Scene.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1525785486 c:\users\ben\documents\_projet c++\rpg framework\map\map.h
+
+1545834289 source:c:\users\ben\documents\_projet c++\rpg framework\core\scene.cpp
+	"Scene.h"
+	"Game.h"
+
+1545833397 source:c:\users\ben\documents\_projet c++\rpg framework\map\finalmap.cpp
+	"FinalMap.h"
+	<iostream>
+	"../core/Game.h"
+	"../util/collision.h"
+	"../util/benrandom.h"
+	"../constante.h"
+	"../gfx/SDL2_rotozoom.h"
+	"../MapElement/Plan.h"
+	"../MapElement/Sortie.h"
+	"../Player.h"
+	"MenuScene.h"
+	"../Scene/combatScene.h"
+
+1494227592 c:\users\ben\documents\_projet c++\rpg framework\util\collision.h
+	<SDL.h>
+
+1526206250 c:\users\ben\documents\_projet c++\rpg framework\mapelement\plan.h
+	"MapElement.h"
+
+1526206166 c:\users\ben\documents\_projet c++\rpg framework\mapelement\mapelement.h
+
+1535105114 c:\users\ben\documents\_projet c++\rpg framework\mapelement\sortie.h
+	"MapElement.h"
+
+1535097692 c:\users\ben\documents\_projet c++\rpg framework\player.h
+	<SDL.h>
+	<SDL_image.h>
+
+1545829545 c:\users\ben\documents\_projet c++\rpg framework\scene\menuscene.h
+	"../core/Scene.h"
+	"../menu/Menu.h"
+
+1535124774 c:\users\ben\documents\_projet c++\rpg framework\menu\menu.h
+	<vector>
+	"../util/fonctionTTF.h"
+	"ElementMenu.h"
+
+1535018582 c:\users\ben\documents\_projet c++\rpg framework\menu\elementmenu.h
+
+1545829599 c:\users\ben\documents\_projet c++\rpg framework\scene\combatscene.h
+	"../core/Scene.h"
+	"../constante.h"
+	"../Group.h"
+
+1535123992 source:c:\users\ben\documents\_projet c++\rpg framework\map\map.cpp
+	"Map.h"
+	<iostream>
+	<fstream>
+
+1545829624 source:c:\users\ben\documents\_projet c++\rpg framework\mapelement\boss.cpp
+	"Boss.h"
+	"../constante.h"
+	"../Group.h"
+	"../Scene/combatScene.h"
+
+1526206232 c:\users\ben\documents\_projet c++\rpg framework\mapelement\boss.h
+	"MapElement.h"
+
+1525848914 source:c:\users\ben\documents\_projet c++\rpg framework\mapelement\mapelement.cpp
+	"MapElement.h"
+
+1525851208 source:c:\users\ben\documents\_projet c++\rpg framework\mapelement\plan.cpp
+	"Plan.h"
+
+1545829635 source:c:\users\ben\documents\_projet c++\rpg framework\mapelement\sortie.cpp
+	"Sortie.h"
+	"../constante.h"
+	"../Player.h"
+	"../core/Game.h"
+	"../Map/FinalMap.h"
+
+1535035172 source:c:\users\ben\documents\_projet c++\rpg framework\mapelement\switch.cpp
+	"Switch.h"
+	"../constante.h"
+	"../Map/FinalMap.h"
+
+1526213306 c:\users\ben\documents\_projet c++\rpg framework\mapelement\switch.h
+	"MapElement.h"
+
+1525849336 source:c:\users\ben\documents\_projet c++\rpg framework\mapelement\wall.cpp
+	"Wall.h"
+
+1526206206 c:\users\ben\documents\_projet c++\rpg framework\mapelement\wall.h
+	"MapElement.h"
+
+1535018582 source:c:\users\ben\documents\_projet c++\rpg framework\menu\elementmenu.cpp
+	"ElementMenu.h"
+	<cstdio>
+
+1535127966 source:c:\users\ben\documents\_projet c++\rpg framework\menu\menu.cpp
+	"Menu.h"
+
+1505233930 source:c:\users\ben\documents\_projet c++\rpg framework\menu\sousmenu.cpp
+	"SousMenu.h"
+
+1509812136 c:\users\ben\documents\_projet c++\rpg framework\menu\sousmenu.h
+	"ElementMenu.h"
+	"Menu.h"
+
+1545829650 source:c:\users\ben\documents\_projet c++\rpg framework\menuitem\afficheperso.cpp
+	"AffichePerso.h"
+	"../constante.h"
+	"../util/Barre.h"
+	"../Group.h"
+	"../Monstre.h"
+	"../Personnage.h"
+	"../core/Game.h"
+
+1517059064 c:\users\ben\documents\_projet c++\rpg framework\menuitem\afficheperso.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1493557338 c:\users\ben\documents\_projet c++\rpg framework\util\barre.h
+	<iostream>
+	<cstdio>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1526112332 c:\users\ben\documents\_projet c++\rpg framework\monstre.h
+	"Entite.h"
+
+1535742928 c:\users\ben\documents\_projet c++\rpg framework\personnage.h
+	"Entite.h"
+
+1535035180 source:c:\users\ben\documents\_projet c++\rpg framework\menuitem\continue.cpp
+	"Continue.h"
+
+1517057754 c:\users\ben\documents\_projet c++\rpg framework\menuitem\continue.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1545829661 source:c:\users\ben\documents\_projet c++\rpg framework\menuitem\quit.cpp
+	"Quit.h"
+	"../core/Game.h"
+
+1516982608 c:\users\ben\documents\_projet c++\rpg framework\menuitem\quit.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1526112486 source:c:\users\ben\documents\_projet c++\rpg framework\monstre.cpp
+	"Monstre.h"
+	"constante.h"
+	"Group.h"
+
+1526208878 source:c:\users\ben\documents\_projet c++\rpg framework\monstres\demon.cpp
+	"Demon.h"
+	<SDL_image.h>
+
+1526207436 c:\users\ben\documents\_projet c++\rpg framework\monstres\demon.h
+	"IAbasic.h"
+
+1503563292 c:\users\ben\documents\_projet c++\rpg framework\monstres\iabasic.h
+	"../Monstre.h"
+
+1526208878 source:c:\users\ben\documents\_projet c++\rpg framework\monstres\dragon.cpp
+	"Dragon.h"
+	<SDL_image.h>
+
+1526207436 c:\users\ben\documents\_projet c++\rpg framework\monstres\dragon.h
+	"IAbasic.h"
+
+1526208878 source:c:\users\ben\documents\_projet c++\rpg framework\monstres\guivre.cpp
+	"Guivre.h"
+	<SDL_image.h>
+
+1526207436 c:\users\ben\documents\_projet c++\rpg framework\monstres\guivre.h
+	"IAbasic.h"
+
+1526028318 source:c:\users\ben\documents\_projet c++\rpg framework\monstres\iabasic.cpp
+	"IAbasic.h"
+	"../constante.h"
+	"../Group.h"
+	"../util/benrandom.h"
+
+1545831933 source:c:\users\ben\documents\_projet c++\rpg framework\mygame.cpp
+	"MyGame.h"
+	<iostream>
+	"constante.h"
+	"util/benrandom.h"
+	"menu/SousMenu.h"
+	"menuItem/Quit.h"
+	"menuItem/Continue.h"
+	"menuItem/AffichePerso.h"
+	"core/Game.h"
+	"Player.h"
+	"capa/Frape.h"
+	"capa/Sort1.h"
+	"capa/Sort2.h"
+	"capa/Soin.h"
+	"capa/MutiCible.h"
+	"monstres/Dragon.h"
+	"monstres/Demon.h"
+	"monstres/Guivre.h"
+	"Map/FinalMap.h"
+	"MapElement/Wall.h"
+	"MapElement/Boss.h"
+	"MapElement/Sortie.h"
+	"MapElement/Switch.h"
+	"Personnage.h"
+
+1545832928 c:\users\ben\documents\_projet c++\rpg framework\scene\testscene.h
+	"../core/Scene.h"
+
+1535742922 source:c:\users\ben\documents\_projet c++\rpg framework\personnage.cpp
+	"Personnage.h"
+
+1535103522 source:c:\users\ben\documents\_projet c++\rpg framework\player.cpp
+	"Player.h"
+
+1545833397 source:c:\users\ben\documents\_projet c++\rpg framework\scene\combatscene.cpp
+	"combatScene.h"
+	<iostream>
+	"../core/Game.h"
+	"../util/Barre.h"
+	"../Monstre.h"
+	"MenuScene.h"
+	"GameOver.h"
+	"XpScene.h"
+
+1545829883 c:\users\ben\documents\_projet c++\rpg framework\scene\gameover.h
+	"../core/Scene.h"
+
+1545829920 c:\users\ben\documents\_projet c++\rpg framework\scene\xpscene.h
+	"../core/Scene.h"
+	"../Group.h"
+	"../constante.h"
+	"../util/Barre.h"
+
+1545833397 source:c:\users\ben\documents\_projet c++\rpg framework\scene\gameover.cpp
+	"GameOver.h"
+	"../util/fonctionTTF.h"
+	"../core/Game.h"
+	<iostream>
+
+1545833397 source:c:\users\ben\documents\_projet c++\rpg framework\scene\menuscene.cpp
+	"MenuScene.h"
+	"../core/Game.h"
+	"../menu/SousMenu.h"
+	"../menuItem/Quit.h"
+	"../menuItem/Continue.h"
+	"../menuItem/AffichePerso.h"
+	<iostream>
+
+1545834432 source:c:\users\ben\documents\_projet c++\rpg framework\scene\testscene.cpp
+	"TestScene.h"
+	"../core/Game.h"
+	<iostream>
+
+1545833397 source:c:\users\ben\documents\_projet c++\rpg framework\scene\xpscene.cpp
+	"XpScene.h"
+	<iostream>
+	"../core/Game.h"
+	"../Monstre.h"
+	"../Personnage.h"
+
+1541165860 source:c:\users\ben\documents\_projet c++\rpg framework\util\barre.cpp
+	"Barre.h"
+
+1480605254 source:c:\users\ben\documents\_projet c++\rpg framework\util\benrandom.cpp
+	"benrandom.h"
+
+1494227592 source:c:\users\ben\documents\_projet c++\rpg framework\util\collision.cpp
+	"collision.h"
+
+1482976362 source:c:\users\ben\documents\_projet c++\rpg framework\util\fonctiondessin.cpp
+	"fonctionDessin.h"
+
+1535114126 source:c:\users\ben\documents\_projet c++\rpg framework\util\fonctionttf.cpp
+	"fonctionTTF.h"
+	<cstdio>
+
+1535114126 source:e:\_projet c++\rpg framework\capa.cpp
+	"Capa.h"
+	<cstdio>
+
+1535475122 e:\_projet c++\rpg framework\capa.h
+	<SDL.h>
+	"constante.h"
+	"util/fonctionDessin.h"
+
+1535742256 e:\_projet c++\rpg framework\constante.h
+
+1493557338 e:\_projet c++\rpg framework\util\fonctiondessin.h
+	<SDL.h>
+	<cmath>
+
+1535475122 source:e:\_projet c++\rpg framework\capa\frape.cpp
+	"Frape.h"
+	"../Group.h"
+
+1535475122 e:\_projet c++\rpg framework\capa\frape.h
+	"../Entite.h"
+	"../Capa.h"
+
+1535114216 e:\_projet c++\rpg framework\entite.h
+	<SDL.h>
+	"Capa.h"
+	"util/fonctionTTF.h"
+
+1535114126 e:\_projet c++\rpg framework\util\fonctionttf.h
+	<SDL_ttf.h>
+
+1517070232 e:\_projet c++\rpg framework\group.h
+	"Entite.h"
+
+1535475122 source:e:\_projet c++\rpg framework\capa\muticible.cpp
+	"MutiCible.h"
+	"../Group.h"
+
+1535475122 e:\_projet c++\rpg framework\capa\muticible.h
+	"../Capa.h"
+
+1535475122 source:e:\_projet c++\rpg framework\capa\soin.cpp
+	"Soin.h"
+	"../Group.h"
+	"../constante.h"
+
+1535475122 e:\_projet c++\rpg framework\capa\soin.h
+	"../Capa.h"
+
+1535475122 source:e:\_projet c++\rpg framework\capa\sort1.cpp
+	"Sort1.h"
+	"../Group.h"
+
+1535475122 e:\_projet c++\rpg framework\capa\sort1.h
+	"../Capa.h"
+
+1535475122 source:e:\_projet c++\rpg framework\capa\sort2.cpp
+	"Sort2.h"
+	<SDL_image.h>
+
+1535475122 e:\_projet c++\rpg framework\capa\sort2.h
+	"../Capa.h"
+	"../Group.h"
+
+1543511326 source:e:\_projet c++\rpg framework\core\game.cpp
+	"Game.h"
+	<cstdlib>
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1540837988 e:\_projet c++\rpg framework\core\game.h
+	"Scene.h"
+	"../constante.h"
+
+1545833224 e:\_projet c++\rpg framework\core\scene.h
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+
+1540833934 source:e:\_projet c++\rpg framework\core\main.cpp
+	"../MyGame.h"
+
+1545829532 e:\_projet c++\rpg framework\mygame.h
+	"core/Game.h"
+	"Map/FinalMap.h"
+
+1545829058 e:\_projet c++\rpg framework\map\finalmap.h
+	"Map.h"
+	"CombatAleatoire.h"
+	"../core/Scene.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1525785486 e:\_projet c++\rpg framework\map\map.h
+
+1526206388 e:\_projet c++\rpg framework\map\combataleatoire.h
+
+1545834290 source:e:\_projet c++\rpg framework\core\scene.cpp
+	"Scene.h"
+	"Game.h"
+
+1545829036 source:e:\_projet c++\rpg framework\entite.cpp
+	"Entite.h"
+	"Frape.h"
+	<cstdio>
+
+1391338940 source:e:\_projet c++\rpg framework\gfx\sdl2_rotozoom.c
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"SDL2_rotozoom.h"
+
+1346773880 e:\_projet c++\rpg framework\gfx\sdl2_rotozoom.h
+	<math.h>
+	"SDL.h"
+
+1535100370 source:e:\_projet c++\rpg framework\group.cpp
+	"Group.h"
+
+1535114490 source:e:\_projet c++\rpg framework\intro.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"util/fonctionDessin.h"
+	"util/fonctionTTF.h"
+	"util/benrandom.h"
+	"constante.h"
+
+1493557608 e:\_projet c++\rpg framework\util\benrandom.h
+	<cstdlib>
+	<ctime>
+
+1526206388 source:e:\_projet c++\rpg framework\map\combataleatoire.cpp
+	"CombatAleatoire.h"
+	"../util/benrandom.h"
+
+1545833398 source:e:\_projet c++\rpg framework\map\finalmap.cpp
+	"FinalMap.h"
+	<iostream>
+	"../core/Game.h"
+	"../util/collision.h"
+	"../util/benrandom.h"
+	"../constante.h"
+	"../gfx/SDL2_rotozoom.h"
+	"../MapElement/Plan.h"
+	"../MapElement/Sortie.h"
+	"../Player.h"
+	"MenuScene.h"
+	"../Scene/combatScene.h"
+
+1494227592 e:\_projet c++\rpg framework\util\collision.h
+	<SDL.h>
+
+1526206250 e:\_projet c++\rpg framework\mapelement\plan.h
+	"MapElement.h"
+
+1526206166 e:\_projet c++\rpg framework\mapelement\mapelement.h
+
+1535105114 e:\_projet c++\rpg framework\mapelement\sortie.h
+	"MapElement.h"
+
+1535097692 e:\_projet c++\rpg framework\player.h
+	<SDL.h>
+	<SDL_image.h>
+
+1545829546 e:\_projet c++\rpg framework\scene\menuscene.h
+	"../core/Scene.h"
+	"../menu/Menu.h"
+
+1535124774 e:\_projet c++\rpg framework\menu\menu.h
+	<vector>
+	"../util/fonctionTTF.h"
+	"ElementMenu.h"
+
+1535018582 e:\_projet c++\rpg framework\menu\elementmenu.h
+
+1545829600 e:\_projet c++\rpg framework\scene\combatscene.h
+	"../core/Scene.h"
+	"../constante.h"
+	"../Group.h"
+
+1535123992 source:e:\_projet c++\rpg framework\map\map.cpp
+	"Map.h"
+	<iostream>
+	<fstream>
+
+1545829626 source:e:\_projet c++\rpg framework\mapelement\boss.cpp
+	"Boss.h"
+	"../constante.h"
+	"../Group.h"
+	"../Scene/combatScene.h"
+
+1526206232 e:\_projet c++\rpg framework\mapelement\boss.h
+	"MapElement.h"
+
+1525848914 source:e:\_projet c++\rpg framework\mapelement\mapelement.cpp
+	"MapElement.h"
+
+1525851208 source:e:\_projet c++\rpg framework\mapelement\plan.cpp
+	"Plan.h"
+
+1545829636 source:e:\_projet c++\rpg framework\mapelement\sortie.cpp
+	"Sortie.h"
+	"../constante.h"
+	"../Player.h"
+	"../core/Game.h"
+	"../Map/FinalMap.h"
+
+1535035172 source:e:\_projet c++\rpg framework\mapelement\switch.cpp
+	"Switch.h"
+	"../constante.h"
+	"../Map/FinalMap.h"
+
+1526213306 e:\_projet c++\rpg framework\mapelement\switch.h
+	"MapElement.h"
+
+1525849336 source:e:\_projet c++\rpg framework\mapelement\wall.cpp
+	"Wall.h"
+
+1526206206 e:\_projet c++\rpg framework\mapelement\wall.h
+	"MapElement.h"
+
+1535018582 source:e:\_projet c++\rpg framework\menu\elementmenu.cpp
+	"ElementMenu.h"
+	<cstdio>
+
+1535127966 source:e:\_projet c++\rpg framework\menu\menu.cpp
+	"Menu.h"
+
+1505233930 source:e:\_projet c++\rpg framework\menu\sousmenu.cpp
+	"SousMenu.h"
+
+1509812136 e:\_projet c++\rpg framework\menu\sousmenu.h
+	"ElementMenu.h"
+	"Menu.h"
+
+1545829652 source:e:\_projet c++\rpg framework\menuitem\afficheperso.cpp
+	"AffichePerso.h"
+	"../constante.h"
+	"../util/Barre.h"
+	"../Group.h"
+	"../Monstre.h"
+	"../Personnage.h"
+	"../core/Game.h"
+
+1517059064 e:\_projet c++\rpg framework\menuitem\afficheperso.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1493557338 e:\_projet c++\rpg framework\util\barre.h
+	<iostream>
+	<cstdio>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1526112332 e:\_projet c++\rpg framework\monstre.h
+	"Entite.h"
+
+1535742928 e:\_projet c++\rpg framework\personnage.h
+	"Entite.h"
+
+1535035180 source:e:\_projet c++\rpg framework\menuitem\continue.cpp
+	"Continue.h"
+
+1517057754 e:\_projet c++\rpg framework\menuitem\continue.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1545829662 source:e:\_projet c++\rpg framework\menuitem\quit.cpp
+	"Quit.h"
+	"../core/Game.h"
+
+1516982608 e:\_projet c++\rpg framework\menuitem\quit.h
+	"../menu/ElementMenu.h"
+	"../constante.h"
+
+1526112486 source:e:\_projet c++\rpg framework\monstre.cpp
+	"Monstre.h"
+	"constante.h"
+	"Group.h"
+
+1526208878 source:e:\_projet c++\rpg framework\monstres\demon.cpp
+	"Demon.h"
+	<SDL_image.h>
+
+1526207436 e:\_projet c++\rpg framework\monstres\demon.h
+	"IAbasic.h"
+
+1503563292 e:\_projet c++\rpg framework\monstres\iabasic.h
+	"../Monstre.h"
+
+1526208878 source:e:\_projet c++\rpg framework\monstres\dragon.cpp
+	"Dragon.h"
+	<SDL_image.h>
+
+1526207436 e:\_projet c++\rpg framework\monstres\dragon.h
+	"IAbasic.h"
+
+1526208878 source:e:\_projet c++\rpg framework\monstres\guivre.cpp
+	"Guivre.h"
+	<SDL_image.h>
+
+1526207436 e:\_projet c++\rpg framework\monstres\guivre.h
+	"IAbasic.h"
+
+1526028318 source:e:\_projet c++\rpg framework\monstres\iabasic.cpp
+	"IAbasic.h"
+	"../constante.h"
+	"../Group.h"
+	"../util/benrandom.h"
+
+1545831934 source:e:\_projet c++\rpg framework\mygame.cpp
+	"MyGame.h"
+	<iostream>
+	"constante.h"
+	"util/benrandom.h"
+	"menu/SousMenu.h"
+	"menuItem/Quit.h"
+	"menuItem/Continue.h"
+	"menuItem/AffichePerso.h"
+	"core/Game.h"
+	"Player.h"
+	"capa/Frape.h"
+	"capa/Sort1.h"
+	"capa/Sort2.h"
+	"capa/Soin.h"
+	"capa/MutiCible.h"
+	"monstres/Dragon.h"
+	"monstres/Demon.h"
+	"monstres/Guivre.h"
+	"Map/FinalMap.h"
+	"MapElement/Wall.h"
+	"MapElement/Boss.h"
+	"MapElement/Sortie.h"
+	"MapElement/Switch.h"
+	"Personnage.h"
+
+1535742922 source:e:\_projet c++\rpg framework\personnage.cpp
+	"Personnage.h"
+
+1535103522 source:e:\_projet c++\rpg framework\player.cpp
+	"Player.h"
+
+1545833398 source:e:\_projet c++\rpg framework\scene\combatscene.cpp
+	"combatScene.h"
+	<iostream>
+	"../core/Game.h"
+	"../util/Barre.h"
+	"../Monstre.h"
+	"MenuScene.h"
+	"GameOver.h"
+	"XpScene.h"
+
+1545829884 e:\_projet c++\rpg framework\scene\gameover.h
+	"../core/Scene.h"
+
+1545829922 e:\_projet c++\rpg framework\scene\xpscene.h
+	"../core/Scene.h"
+	"../Group.h"
+	"../constante.h"
+	"../util/Barre.h"
+
+1545833398 source:e:\_projet c++\rpg framework\scene\gameover.cpp
+	"GameOver.h"
+	"../util/fonctionTTF.h"
+	"../core/Game.h"
+	<iostream>
+
+1545833398 source:e:\_projet c++\rpg framework\scene\menuscene.cpp
+	"MenuScene.h"
+	"../core/Game.h"
+	"../menu/SousMenu.h"
+	"../menuItem/Quit.h"
+	"../menuItem/Continue.h"
+	"../menuItem/AffichePerso.h"
+	<iostream>
+
+1545834434 source:e:\_projet c++\rpg framework\scene\testscene.cpp
+	"TestScene.h"
+	"../core/Game.h"
+	<iostream>
+
+1545832930 e:\_projet c++\rpg framework\scene\testscene.h
+	"../core/Scene.h"
+
+1545833398 source:e:\_projet c++\rpg framework\scene\xpscene.cpp
+	"XpScene.h"
+	<iostream>
+	"../core/Game.h"
+	"../Monstre.h"
+	"../Personnage.h"
+
+1541165860 source:e:\_projet c++\rpg framework\util\barre.cpp
+	"Barre.h"
+
+1480605254 source:e:\_projet c++\rpg framework\util\benrandom.cpp
+	"benrandom.h"
+
+1494227592 source:e:\_projet c++\rpg framework\util\collision.cpp
+	"collision.h"
+
+1482976362 source:e:\_projet c++\rpg framework\util\fonctiondessin.cpp
+	"fonctionDessin.h"
+
+1535114126 source:e:\_projet c++\rpg framework\util\fonctionttf.cpp
+	"fonctionTTF.h"
+	<cstdio>
+
