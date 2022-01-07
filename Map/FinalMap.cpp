@@ -8,7 +8,7 @@
 #include "../MapElement/Plan.h"
 #include "../MapElement/Sortie.h"
 #include "../Player.h"
-#include "MenuScene.h"
+#include "../Scene/MenuScene.h"
 #include "../Scene/combatScene.h"
 extern Game* game;
 //  position du hero sur la map(pas sur l'ecran)
@@ -131,7 +131,7 @@ void FinalMap::update(int dt)
         }
 
         if(combatAleatoire.testCombat()){
-            //gestion du combat aléatoire
+            //gestion du combat alï¿½atoire
 /*
             int i = combat(goupeDeMonstre[random(nbMonstre()-1)]);
             velx=vely=0;
@@ -204,13 +204,13 @@ FinalMap::FinalMap(const char* file,const char* TileSet,int Zoom): Map(file) ,m_
         tileSet = temp;
         m_tileWidth = tileWidth()*zoom;
         m_tileHeight = tileHeight()*zoom;
-    //calcul du nombre de tuile pas écran (écran doit etre initilisé)
+    //calcul du nombre de tuile pas ï¿½cran (ï¿½cran doit etre initilisï¿½)
         nbtuecranx=WECRAN/tileWidth();
         nbtuecrany=HECRAN/tileHeight();
     // valeur par default des objet tuile
         MapElement* tempEl = new Plan;
         for(int i=0;i<100;i++){mapElement[i]=tempEl;}
-    // remise à zéro des combat aléatoire
+    // remise ï¿½ zï¿½ro des combat alï¿½atoire
         combatAleatoire.reset();
 }
 

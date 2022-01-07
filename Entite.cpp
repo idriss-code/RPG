@@ -1,5 +1,5 @@
 #include "Entite.h"
-#include "Frape.h"
+#include "capa/Frape.h"
 #include <cstdio>
 
 Entite::Entite(const char*nom,int pv,int mp):m_degatRecu(0),m_soinRecu(0),m_timer(0),m_anim(0),m_transparence(255),m_force(1),m_magie(1),m_defPhys (1),m_defMag(1)
@@ -53,7 +53,7 @@ void Entite::afficheSprite(){
     }
 }
 
-//  affichage des PV perdu quand touché
+//  affichage des PV perdu quand touchï¿½
 void Entite::afficheDegats(TTF_Font *police)
  {
             if(m_degatRecu)
@@ -67,7 +67,7 @@ void Entite::afficheDegats(TTF_Font *police)
             }
  }
 
-//  affichage des PV perdu quand touché
+//  affichage des PV perdu quand touchï¿½
 void Entite::afficheSoin(TTF_Font *police)
 {
      if(m_soinRecu){
@@ -90,7 +90,7 @@ void Entite::affichePV_MP(TTF_Font *police)
             //  affichage MP
             position.y+=15;
             afficheIntSurInt(position,m_MP,m_MPMax,ecran,police,NOIR);
-            //  afffichage dégat et soin
+            //  afffichage dï¿½gat et soin
 }
 
 void Entite::degat(Entite *cible, int element, bool magie,int puissance)

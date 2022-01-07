@@ -22,7 +22,7 @@ Switch::~Switch()
     //dtor
 }
 
-Switch::action()
+int Switch::action()
 {
     if(!actived){
         m_map->setTile(x,y,newTile);

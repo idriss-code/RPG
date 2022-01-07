@@ -10,7 +10,7 @@ MultiSwitch::~MultiSwitch()
     //dtor
 }
 
-MultiSwitch::action()
+int MultiSwitch::action()
 {
     int returnVal=0;
     for(int i=0;i<nbElement;i++){

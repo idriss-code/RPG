@@ -20,7 +20,7 @@ Sortie::~Sortie()
     //dtor
 }
 
-Sortie::action()
+int Sortie::action()
 {
 
     game->setCurrentScene(m_destination);
