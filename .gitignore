@@ -1,0 +1,6 @@
+*.dll
+Game.depend
+Game.layout
+bin
+obj
+.vscode
